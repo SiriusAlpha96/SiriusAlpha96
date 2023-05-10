@@ -1,6 +1,12 @@
 ### Hi there I'm Shreya Maurya 👋
+<h3 align="center"> Web Developer and UI/UX designer ♾️</h3>
 
-**SiriusAlpha96/SiriusAlpha96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://twitter.com/Canistwt" target="blank"><img src="https://img.shields.io/twitter/follow/Canistwt?logo=twitter&style=for-the-badge" alt="Canistwt" /></a> </p>
+
+ - 🔭 I’m currently working on [Tryeno Software-]
+<!--(https://github.com/CanisCoder/All-In-One-Application-) -->
+
+
 
 Here are some ideas to get you started:
 
