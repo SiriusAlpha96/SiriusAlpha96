@@ -9,9 +9,7 @@
 
 - 🌱 I’m currently learning  MERN STACK
 <!--- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...-->
-- 💬 Ask me about Python, C, React, Javascript.
-- 
+- 🤔 I’m looking for help with ...-->- 💬 Ask me about Python, C, React, Javascript.
 - 📫 How to reach me shreyama9670@gmail.com
 <!--- 😄 Pronouns: ... 
 - ⚡ Fun fact: ...-->
