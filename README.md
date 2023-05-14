@@ -7,10 +7,10 @@
 <!--(https://github.com/CanisCoder/All-In-One-Application-) -->
 
 
-- 🌱 I’m currently learning MERN STACK
+- 🌱 I’m currently learning MERN STACK, Java.
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...-->
-- 💬 Ask me about  Python, C, React, Javascript.
+- 💬 Ask me about  Python, C, Java, React, Javascript.
 
 - 📫 How to reach me shreyama9670@gmail.com
 <!--- 😄 Pronouns: ... 
