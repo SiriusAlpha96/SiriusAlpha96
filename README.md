@@ -13,5 +13,5 @@
 - 💬 Ask me about  Python, C, Java, React, Javascript.
 
 - 📫 How to reach me shreyama9670@gmail.com
-<!--- 😄 Pronouns: ... 
-- ⚡ Fun fact I exist in every type of mood.😜 -->
+<!--- 😄 Pronouns: ... -->
+- ⚡ Fun fact I love to do designing  
