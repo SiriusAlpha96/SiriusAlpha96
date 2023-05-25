@@ -14,4 +14,4 @@
 
 - 📫 How to reach me shreyama9670@gmail.com
 <!--- 😄 Pronouns: ... -->
-- ⚡ Fun fact I love to do designing  
+- ⚡ Fun fact I love to do designing.
