@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://www.twitter.com/in/Sirius_twe" target="blank"><img src="https://img.shields.io/twitter/follow/Sirius_twe?logo=twitter&style=for-the-badge" alt="Sirius_twe" /></a> </p>
 
- - 🔭 I’m currently working on [Tryeno Software]
+<!-- - 🔭 I’m currently working on [Tryeno Software]-->
 <!--(https://github.com/CanisCoder/All-In-One-Application-) -->
 
 
