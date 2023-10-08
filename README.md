@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning MERN STACK, Java.
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...-->
-- 💬 Ask me about  Python, C, Java, React, Javascript, Html, Tailwind Css.
+- 💬 Ask me about  Python, C, Java, React, Javascript, Html, Tailwind Css, Node.js, Express.js, MongoDB .
 
 - 📫 How to reach me shreyama9670@gmail.com
 <!--- 😄 Pronouns: ... -->
