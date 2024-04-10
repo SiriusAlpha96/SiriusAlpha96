@@ -12,22 +12,11 @@
 
 <!-- 👯 I’m looking to collaborate on [kubernetes](https://github.com/kubernetes/kubernetes)--!>
 
-- 💬 Ask me about **Java, C, Python, React, Nodejs, TailwindCSS, Expressjs, MongoDB, TypeScript, JavaScript**
+- 💬 Ask me about Java, C, Python, React, Nodejs, TailwindCSS, Expressjs, MongoDB, TypeScript, JavaScript
 
-- 📫 How to reach me **shreyama9670@gmail.com**
+- 📫 How to reach me shreyama9670@gmail.com
 
-- ⚡ Fun fact **Well I'm exist in every types of mood 😜**
-
-
-
-
-
-
-
-
-
-
-
+- ⚡ Fun fact Well I'm exist in every types of mood 😜
 
 
 
