@@ -17,4 +17,4 @@
 
 - 📫 How to reach me shreyama9670@gmail.com
 <!--- 😄 Pronouns: ... -->
-- ⚡ Fun fact Well I'm exist in every types of mood 😜
+<!-- ⚡ Fun fact Well I'm exist in every types of mood 😜 -->
